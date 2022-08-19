@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bootstrap Projects](https://github.com/SDias14/curso_full_stack_obc/tree/main/css)
 
-- 🌱 I’m currently learning **html 5, css3, bootstrap, bulma, sass, javascript, php**
+- 🌱 Technologies learned **html 5, css3, bootstrap, bulma, sass, javascript, php**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SDias14?tab=repositories](https://github.com/SDias14?tab=repositories)
 
