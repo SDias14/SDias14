@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdias14" alt="sdias14" /></a> </p>
 
-- 🔭 I’m currently working on [Bootstrap Projects](https://github.com/SDias14/curso_full_stack_obc/tree/main/css)
+- 🔭 I’m currently working on PHP projects
 
 - 🌱 Technologies learned **html 5, css3, bootstrap, bulma, sass, javascript, php**
 
