@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Dias</h1>
-<h3 align="center">Front-end has become a passion</h3>
+<h3 align="center">Programming has become a passion</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdias14&label=Profile%20views&color=0e75b6&style=flat" alt="sdias14" /> </p>
 
